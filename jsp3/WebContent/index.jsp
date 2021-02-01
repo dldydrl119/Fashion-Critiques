@@ -16,7 +16,7 @@
 <%@ include file="../include/header.jsp" %>
 <c:if test="${sessionScope != null}">
 	<script>
-		alert("${sessionScope.message}");
+		alert("${sessionScope.message}"); 
 	</script>
 </c:if>
 </head>
@@ -85,7 +85,7 @@
 					</header>
 					<section class="post-excerpt">
 					<p>
-						1980년대 처음 파리 패션계에 데뷔한 그는, 해체주의라는 새로운 개념의 의상을 선보였는데, 주로 의복에 숨겨진, 의복이 구성되는 아이템에 집중하는 의상들을 선보였다. <a class="read-more" href="https://www.maisonmargiela.com/kr">&raquo;</a>
+						1980년대 처음 파리 패션계에 데뷔한 그는, 해 체주의라는 새로운 개념의 의상을 선보였는데, 주로 의복에 숨겨진, 의복이 구성되는 아이템에 집중하는 의상들을 선보였다. <a class="read-more" href="https://www.maisonmargiela.com/kr">&raquo;</a>
 					</p>
 					</section>
 					<footer class="post-meta">
